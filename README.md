@@ -1,10 +1,6 @@
-### Hi there 👋
-
-<img src="https://github.com/rodrigoasis87/rodrigoasis87/assets/73196362/31cce43e-eb47-45e6-808f-69769362835e" alt="caripela redonda" width="100" height="100">
-
 <p align="center" width="300">
-   <img src="https://github.com/rodrigoasis87/rodrigoasis87/assets/73196362/31cce43e-eb47-45e6-808f-69769362835e" alt="caripela redonda" width="100" height="100">
-   <h3 align="center">¡Hey 👋! Soy midudev 👨🏻‍💻</h3>
+   <img src="https://github.com/rodrigoasis87/rodrigoasis87/assets/73196362/31cce43e-eb47-45e6-808f-69769362835e" alt="caripela redonda" width="250" height="250">
+   <h3 align="center">¡Hey 👋! Soy Rodrigo Asis 👨🏻‍💻</h3>
 </p>
 
 <p align="center">

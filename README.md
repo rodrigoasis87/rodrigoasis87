@@ -5,7 +5,8 @@
 <p>
    Mi nombre es Rodrigo Asis y estoy incursionando en el mundo IT luego de un paso de 7 años de actividad profesional por la Arquitectura (Social, no de software :hand_over_mouth:). Aquí una pequeña muestra de esta valiosa experiencia que me dejó grandes herramientas para la comunicación, gestión, liderazgo y visión estratégica:
 </p>
-* [Instagram](https://www.instagram.com/comuna.cooperativa/)
+- [Instagram](https://www.instagram.com/comuna.cooperativa/)
+- 
 <p>
   <a href="https://www.linkedin.com/in/rodrigo-asis/" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="X de Rodrigo Asis" height="23px" width="28px" />
@@ -13,7 +14,7 @@
 </p>
 
 
-<!--
+
 **rodrigoasis87/rodrigoasis87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
@@ -28,4 +29,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+

@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![caripela redonda](https://github.com/rodrigoasis87/rodrigoasis87/assets/73196362/31cce43e-eb47-45e6-808f-69769362835e)
+<img src="https://github.com/rodrigoasis87/rodrigoasis87/assets/73196362/31cce43e-eb47-45e6-808f-69769362835e" alt="caripela redonda" width="100" height="100">
 
 <!--
 **rodrigoasis87/rodrigoasis87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -3,18 +3,10 @@
    <h3 align="center">¡Hola, bienvenid@ :upside_down_face:!</h3>
 </p>
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/rodrigo-asis/" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="X de Rodrigo Asis" height="23px" width="28px" />
   </a>
-  <span style="width: 8px;"> </span>
-  <a href="https://instagram.com/asisrodrigo" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Ig de Rodrigo Asis" height="23px" width="23px" />
-  </a>
-  <span style="width: 8px;"> </span>
-  <a href="https://twitter.com/RodrigoAsis5" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Xnetwork.svg" alt="X de Rodrigo Asis" height="23px" width="28px" />
-  </a>  
 </p>
 
 <!--

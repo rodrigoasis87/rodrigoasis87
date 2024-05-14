@@ -3,7 +3,7 @@
    <h3 align="center">¡Hola, bienvenid@ :upside_down_face:!</h3>
 </p>
 <p>
-   Mi nombre es Rodrigo Asis y estoy incursionando en el mundo IT luego de un paso de siete años de actividad profesional por la Arquitectura (Social, no de software :hand_over_mouth:). Aquí una pequeña muestra de esta valiosa experiencia, una cooperativa la cual fundé junto a tres compañeras, que me dejó grandes herramientas para la comunicación, gestión, liderazgo y visión estratégica:
+   Mi nombre es Rodrigo Asis y te cuento que estoy incursionando en el mundo IT luego de un paso de siete años de actividad profesional por la Arquitectura (Social, no de software :hand_over_mouth:). Aquí una pequeña muestra de esta valiosa experiencia, una cooperativa la cual fundé junto a tres compañeras, que me dejó grandes herramientas para la comunicación, gestión, liderazgo y visión estratégica:
 </p>
 
 - [Comuna Cooperativa](https://www.instagram.com/comuna.cooperativa/)

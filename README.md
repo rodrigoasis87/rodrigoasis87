@@ -9,6 +9,18 @@
 - [Comuna Cooperativa](https://www.instagram.com/comuna.cooperativa/)
 
 <p>
+   Estoy buscando especializarme en el manejo de datos en el sentido más amplio del concepto, focalizando para ello el estudio de Python y librerías como Pandas, Numpy, FastAPI, y también de gestores de bases de datos relacionales y no relacionales. Cabe mencionar que cuando comencé a estudiar los fundamentos de la programación conocí las clásicas herramientas HTML y CSS.  
+</p>
+
+<p>
+   Me place contarles que acabamos de finalizar el MVP de 'Ugo!', un marketplace de experiencias turísticas realizado por un grupo de Juniors bajo la dirección de Damián Fanaro, fundador de Igrowker. Aquí me desempeñé en la función de Backend-Data y, dentro de mi rol, expuse una API en formato JSON usando FastAPI, consumí los datos desde una colección de documentos de MongoDB y realicé una aplicación web con Streamlit para ingresar nuevas experiencias a la base de datos NoSQL. 
+</p>
+
+<p>
+   Actualmente me encuentro profundizando el proyecto, incorporando nuevas funciones a la app web e implementando un análisis de sentimientos sobre las reviews de las experiencias.
+</p>
+
+<p>
   <a href="https://www.linkedin.com/in/rodrigo-asis/" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="X de Rodrigo Asis" height="23px" width="28px" />
   </a>

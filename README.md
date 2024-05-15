@@ -1,5 +1,5 @@
 <p align="center" width="300">
-   <img src="https://github.com/rodrigoasis87/rodrigoasis87/assets/73196362/31cce43e-eb47-45e6-808f-69769362835e" alt="caripela redonda" width="250" height="250">
+   <img src="https://github.com/rodrigoasis87/rodrigoasis87/assets/73196362/39728bca-ec98-44bb-b298-97fab89dceed" alt="caripela redonda" height="250">
    <h3 align="center">👋 Hola, soy Rodrigo Asis, ¡bienvenid@! 🙃</h3>
    <h5 align="center">🚧 perfil en construcción 🚧</h5>
 </p>

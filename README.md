@@ -4,6 +4,7 @@
    <h5 align="center">🚧 perfil en construcción 🚧</h5>
 </p>
 Hablando de construcción, no puedo no comenzar contando que hace poco ejercí como Arquitecto (Social, no de software 🤭) durante 7 años, lo que me dejó un gran abanico de soft skills. Aquí una pequeña muestra de esta valiosa experiencia, una cooperativa la cual fundé junto a tres compañeras:
+
 - [Comuna Cooperativa](https://www.instagram.com/comuna.cooperativa/)
 
 - 🔭 Consciente de que en esta red compartimos código sobre todas las cosas, aprovecho para contar que acabo de finalizar el MVP para 'Ugo!', un marketplace de experiencias turísticas realizado por un grupo de Juniors bajo la dirección de Damián Fanaro, fundador de Igrowker. Aquí me desempeñé en la función de Backend-Data y, dentro de mi rol, expuse una API en formato `JSON` usando `FastAPI`, consumí los datos desde una colección de documentos de `MongoDB` y realicé una aplicación web Back Office con `Streamlit` para ingresar nuevas experiencias a la base de datos NoSQL. 

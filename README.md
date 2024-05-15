@@ -9,9 +9,7 @@
 
 - [Comuna Cooperativa](https://www.instagram.com/comuna.cooperativa/)
 
-<p>
-   Consciente de que en esta red compartimos código sobre todas las cosas, aprovecho para contar que acabo de finalizar el MVP para 'Ugo!', un marketplace de experiencias turísticas realizado por un grupo de Juniors bajo la dirección de Damián Fanaro, fundador de Igrowker. Aquí me desempeñé en la función de Backend-Data y, dentro de mi rol, expuse una API en formato JSON usando FastAPI, consumí los datos desde una colección de documentos de MongoDB y realicé una aplicación web Back Office con Streamlit para ingresar nuevas experiencias a la base de datos NoSQL. 
-</p>
+Consciente de que en esta red compartimos código sobre todas las cosas, aprovecho para contar que acabo de finalizar el MVP para 'Ugo!', un marketplace de experiencias turísticas realizado por un grupo de Juniors bajo la dirección de Damián Fanaro, fundador de Igrowker. Aquí me desempeñé en la función de Backend-Data y, dentro de mi rol, expuse una API en formato JSON usando `FastAPI`, consumí los datos desde una colección de documentos de MongoDB y realicé una aplicación web Back Office con Streamlit para ingresar nuevas experiencias a la base de datos NoSQL. 
 
 No conforme con lo alcanzado, me encuentro profundizando el proyecto, incorporando nuevas funciones a la app web e implementando un análisis de sentimientos sobre las reviews de las experiencias.
 

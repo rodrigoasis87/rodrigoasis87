@@ -1,12 +1,12 @@
 <p align="center" width="300">
    <img src="https://github.com/rodrigoasis87/rodrigoasis87/assets/73196362/39728bca-ec98-44bb-b298-97fab89dceed" alt="caripela redonda" height="250">
-   <h3 align="center">👋 Hola, soy Rodrigo Asis, ¡bienvenid@! 🙃</h3>
+   <h3 align="center">👋 Hola, soy Rodrigo Asis, ¡bienvenid@s! 🙃</h3>
    <h5 align="center">🚧 perfil en construcción 🚧</h5>
 </p>
 
 - 💬 Hablando de construcción, no puedo no comenzar contando que hace poco ejercí como Arquitecto (Social, no de software 🤭) durante 7 años, lo que me dejó un gran abanico de soft skills. Aquí una pequeña muestra de esta valiosa experiencia, una cooperativa la cual fundé junto a tres compañeras: [Comuna Cooperativa](https://www.instagram.com/comuna.cooperativa/)
 
-- 🔭 Consciente de que en esta red compartimos código sobre todas las cosas, aprovecho para contar que acabo de finalizar el MVP de 'Ugo!', un marketplace de experiencias turísticas realizado por un grupo de Juniors bajo la dirección de [Damián Fanaro](https://github.com/damianfanaro), fundador de [Igrowker](https://github.com/igrowker). Aquí me desempeñé en la función de Backend-Data con `Python` y, dentro de mi rol, expuse una API en formato `JSON` usando `FastAPI`, consumí los datos desde una colección de documentos de `MongoDB` y realicé una aplicación web Back Office con `Streamlit` para ingresar nuevas experiencias a la base de datos NoSQL. 
+- 🔭 Consciente de que en esta red compartimos código sobre todas las cosas, aprovecho para contar que acabo de finalizar el MVP de 'Ugo!', un marketplace de experiencias turísticas realizado por un grupo de Juniors bajo la dirección de [Damián Fanaro](https://github.com/damianfanaro), fundador de [Igrowker](https://github.com/igrowker). Aquí me desempeñé en la función de Backend-Data con `Python` y, dentro de mi rol, expuse una API en formato `JSON` usando `FastAPI`, consumí los datos desde una colección de documentos de `MongoDB` y realicé una aplicación web Back Office con `Streamlit` para ingresar nuevas experiencias a la base de datos NoSQL. El trabajo se puede ver en [ugo-backend-data](https://github.com/rodrigoasis87/ugo-backend-data) 
 
 - 🌱 No conforme con lo alcanzado, me encuentro profundizando el proyecto, incorporando nuevas funciones a la app web e implementando un análisis de sentimientos sobre las reviews de las experiencias.
 

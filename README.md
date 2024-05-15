@@ -1,7 +1,7 @@
 <p align="center" width="300">
    <img src="https://github.com/rodrigoasis87/rodrigoasis87/assets/73196362/31cce43e-eb47-45e6-808f-69769362835e" alt="caripela redonda" width="250" height="250">
    <h3 align="center">:wave: Hola, soy Rodrigo Asis, ¡bienvenid@! :upside_down_face:</h3>
-   <h5 align="center">(:construction: perfil en construcción :construction:)</h5>
+   <h5 align="center">(perfil en construcción :construction:)</h5>
 </p>
 <p>
    Mi nombre es Rodrigo Asis y te cuento que estoy incursionando en el mundo IT luego de un paso de siete años de actividad profesional por la Arquitectura (Social, no de software :hand_over_mouth:). Aquí una pequeña muestra de esta valiosa experiencia, una cooperativa la cual fundé junto a tres compañeras:

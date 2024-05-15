@@ -9,7 +9,7 @@
 - [Comuna Cooperativa](https://www.instagram.com/comuna.cooperativa/)
 
 <p>
-   Estoy buscando especializarme en el manejo de datos en el sentido más amplio del concepto, focalizando para ello el estudio de <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Python_logo_01.svg" alt="Logo" style="vertical-align: middle; height: 1em;"> y librerías como Pandas, Numpy, FastAPI, y también de gestores de bases de datos relacionales y no relacionales. Cabe mencionar que cuando comencé a estudiar los fundamentos de la programación conocí las clásicas herramientas HTML y CSS.  
+   Estoy buscando especializarme en el manejo de datos en el sentido más amplio del concepto, focalizando para ello el estudio de <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Python_logo_01.svg" alt="Logo" style="vertical-align: middle; height: 1em;"></a> y librerías como Pandas, Numpy, FastAPI, y también de gestores de bases de datos relacionales y no relacionales. Cabe mencionar que cuando comencé a estudiar los fundamentos de la programación conocí las clásicas herramientas HTML y CSS.  
 </p>
 
 <p>

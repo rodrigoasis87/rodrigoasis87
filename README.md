@@ -18,11 +18,11 @@
 
 
 
-<p>
-  Y el que no podía faltar, mi perfil de <a href="https://www.linkedin.com/in/rodrigo-asis/" target="blank">
+<h4>Y el que no podía faltar, mi perfil de 
+   <a href="https://www.linkedin.com/in/rodrigo-asis/" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LinkedIn_logo.svg" alt="X de Rodrigo Asis" height="30" />
   </a>
-</p>
+</h4>
 
 
 

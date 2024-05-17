@@ -16,9 +16,11 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigoasis87)](https://github.com/anuraghazra/github-readme-stats)
 
+**Y el que no podía faltar, mi perfil de LinkedIn:**
+
 <p>
   <a href="https://www.linkedin.com/in/rodrigo-asis/" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LinkedIn_logo.svg" alt="X de Rodrigo Asis" height="23px" width="28px" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LinkedIn_logo.svg" alt="X de Rodrigo Asis" height="1em" />
   </a>
 </p>
 

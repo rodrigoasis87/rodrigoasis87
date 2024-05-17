@@ -10,7 +10,7 @@
 
 - 🌱 No conforme con lo alcanzado, me encuentro profundizando el proyecto, incorporando nuevas funciones a la app web e implementando un análisis de sentimientos sobre las reviews de las experiencias.
 
-- 📫 Si estás buscando a un perfil Jr con probadas habilidades de comunicación asertiva, trabajo en equipo, vocación de servicio, visión estratégica, razonamiento lógico y muchas pero muchas ganas de aprender sobre la arquitectura de los datos, no dudes en comunicarte conmigo =)
+- 📫 Si estás buscando a un perfil Jr con experiencia laboral, probadas habilidades de comunicación asertiva, trabajo en equipo, vocación de servicio, visión estratégica, razonamiento lógico y muchas pero muchas ganas de aprender sobre la arquitectura de los datos, no dudes en comunicarte conmigo =)
 
 <p>
   <a href="https://www.linkedin.com/in/rodrigo-asis/" target="blank">

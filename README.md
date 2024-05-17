@@ -20,7 +20,7 @@
 
 <p>
   <a href="https://www.linkedin.com/in/rodrigo-asis/" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LinkedIn_logo.svg" alt="X de Rodrigo Asis" height="100" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LinkedIn_logo.svg" alt="X de Rodrigo Asis" height="50" />
   </a>
 </p>
 

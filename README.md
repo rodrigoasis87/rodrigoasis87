@@ -12,6 +12,7 @@
 
 - 📫 Si estás buscando a un perfil Jr con experiencia laboral, probadas habilidades de comunicación asertiva, trabajo en equipo, vocación de servicio, visión estratégica, razonamiento lógico y muchas pero muchas ganas de aprender sobre la arquitectura de los datos, no dudes en comunicarte conmigo =)
 
+*Jugando con estadísticas:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigoasis87)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>

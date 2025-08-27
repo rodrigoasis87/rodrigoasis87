@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/rodrigoasis87/rodrigoasis87/assets/73196362/39728bca-ec98-44bb-b298-97fab89dceed" alt="Rodrigo Asis" height="200" style="border-radius: 50%;">
   
-  # 👋 ¡Hola! Soy Rodrigo Asis
+  # 👋 Hello stranger, thanks for visit =)
   
   ### 🏗️ Arquitecto Social → 💻 Desarrollador Full Stack → 🤖 AI Engineer
   
@@ -22,6 +22,8 @@
 🏛️ **7 años** de ejercicio profesional en **Arquitectura Social**, especializado en gestión y dirección de proyectos. Fundador de [Comuna Cooperativa](https://www.instagram.com/comuna.cooperativa/) - una cooperativa de diseño y construcción.
 
 💻 **4 años** de estudio autodidacta en **Desarrollo Web**, **SaaS** y actualmente **Desarrollo de Aplicaciones con IA** (AI Engineering).
+
+💻 **6 meses y contando** en **Desarrollo de Aplicaciones y Automatizaciones con IA**
 
 ---
 

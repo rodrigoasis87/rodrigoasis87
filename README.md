@@ -19,7 +19,7 @@
 
 - Ugo!: Simulación de proyecto end-to-end. Marketplace de Experiencias Turísticas donde mi función radica en el desarrollo de APIs con Python y FastAPI para exponerlas al equipo de Backend BFF. Además la elaboración de un panel web con Streamlit que permita al cliente-administrador diferentes operaciones sobre la base de datos y también la obtención de métricas y gráficos relacionados con las reviews para que el área de Marketing obtenga información de fuentes propias y de calidad.
 
-📫 Si estás buscando a un Desarrollador Jr con probada experiencia laboral, sólidas soft skills, fuerte compromiso, capacidad y ganas de aportar ideas, encontraste al indicado; yo estoy buscando proyectos desafiantes. ¡Let's talk!  <a href="https://www.linkedin.com/in/rodrigo-asis/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LinkedIn_logo.svg" alt="LinkedIn de Rodrigo Asis" height="20" /></a>
+📫 Si estás buscando a un Desarrollador Jr con probada experiencia laboral, sólidas soft skills, fuerte compromiso, capacidad y ganas de aportar ideas, encontraste al indicado; yo estoy buscando proyectos desafiantes. ¡Let's talk!  <a href="https://www.linkedin.com/in/rodrigo-asis/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LinkedIn_logo.svg" alt="LinkedIn de Rodrigo Asis" height="25" style="vertical-align: middle;" /></a>
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigoasis87)](https://github.com/anuraghazra/github-readme-stats)

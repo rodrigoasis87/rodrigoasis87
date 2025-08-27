@@ -1,28 +1,132 @@
-<p align="center" width="300">
-   <img src="https://github.com/rodrigoasis87/rodrigoasis87/assets/73196362/39728bca-ec98-44bb-b298-97fab89dceed" alt="caripela redonda" height="250">
-   <h3 align="center">Hello stranger, thanks for visit =)</h3>
-</p>
-
-- 7 años de ejercicio profesional en el campo de la Arquitectura Social, especializado en la gestión y dirección de proyectos. Fundador de una cooperativa de diseño y construcción, aquí una pequeña muestra [Comuna Cooperativa](https://www.instagram.com/comuna.cooperativa/).
+<div align="center">
+  <img src="https://github.com/rodrigoasis87/rodrigoasis87/assets/73196362/39728bca-ec98-44bb-b298-97fab89dceed" alt="Rodrigo Asis" height="200" style="border-radius: 50%;">
   
-- 4 años de estudio autodidacta en Desarrollo Web, SaaS y actualmente Desarrollo de Aplicaciones con IA (AI Engineering). Tecnologías más utilizadas: `Python`, `FastAPI`, `Django`, `PostgreSQL`, `MongoDB`, `LangChain`, `Docker` y `GCP`
+  # 👋 ¡Hola! Soy Rodrigo Asis
+  
+  ### 🏗️ Arquitecto Social → 💻 Desarrollador Full Stack → 🤖 AI Engineer
+  
+  <p align="center">
+    <a href="https://www.linkedin.com/in/rodrigo-asis/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://www.instagram.com/comuna.cooperativa/" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    </a>
+  </p>
+</div>
 
-**Proyectos:**
+---
 
-- Disia AI Generator: Proyecto de generación de contenido en lenguaje natural para empresa española. Scrapeo de publicaciones en Linkedin, Backend con Python, FastAPI y Langchain, Finetuning en OpenAI para entrenar al modelo con diferentes estilos, Frontend con React, contenerización de microservicios con Docker y despliegue en la nube con GCP.
+## 🚀 Sobre Mí
 
-- Disia AI Chatbot: Demo para centro comercial de lujo de Madrid. Construcción de sistema RAG utilizando Qdrant como base de datos vectorial y VUE para el front.
+🏛️ **7 años** de ejercicio profesional en **Arquitectura Social**, especializado en gestión y dirección de proyectos. Fundador de [Comuna Cooperativa](https://www.instagram.com/comuna.cooperativa/) - una cooperativa de diseño y construcción.
 
-- Cerem (https://github.com/IgrowkerTraining/i003-cerem-back): Un CRM tipo Saas para gestionar tareas, reuniones, calendarios, notas, e incluso chatear con un agente de IA especializado en la creación de campañas y análisis de métricas. Desarrollo de un backend robusto con Django, integrando las API de Google Calendar y Google Keep, además de utilizar JWT para autenticaciones. 
+💻 **4 años** de estudio autodidacta en **Desarrollo Web**, **SaaS** y actualmente **Desarrollo de Aplicaciones con IA** (AI Engineering).
 
-- Donatello (https://github.com/IgrowkerTraining/i002-donatello-back-python): Creación de Saas para locales gastronómicos locales. Realicé el back de Python con Django, la creación de una API con Rest Framework, la conexión con la base de datos PostgreSQL, el desarrollo de los modelos y las migraciones, los endpoints para que Java consuma los reportes, y la creación misma de la lógica para la analítica de datos.
+---
 
-- Ugo!: Simulación de proyecto end-to-end. Marketplace de Experiencias Turísticas donde mi función radica en el desarrollo de APIs con Python y FastAPI para exponerlas al equipo de Backend BFF. Además la elaboración de un panel web con Streamlit que permita al cliente-administrador diferentes operaciones sobre la base de datos y también la obtención de métricas y gráficos relacionados con las reviews para que el área de Marketing obtenga información de fuentes propias y de calidad.
+## 🛠️ Stack Tecnológico
 
-📫 Si estás buscando a un Desarrollador Jr con probada experiencia laboral, sólidas soft skills, fuerte compromiso, capacidad y ganas de aportar ideas, encontraste al indicado; yo estoy buscando proyectos desafiantes. ¡Let's talk! 
+<div align="center">
 
-<h4>
-<a href="https://www.linkedin.com/in/rodrigo-asis/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LinkedIn_logo.svg" alt="LinkedIn de Rodrigo Asis" height="22" /></a>
-</h4>
+### Backend & Databases
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigoasis87)](https://github.com/anuraghazra/github-readme-stats)
+### AI & ML
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+
+</div>
+
+---
+
+## 🎯 Proyectos Destacados
+
+### 🤖 **Disia AI Generator**
+> **Generación de contenido en lenguaje natural para empresa española**
+- 🔍 Scrapeo inteligente de publicaciones en LinkedIn
+- ⚡ Backend robusto con Python, FastAPI y LangChain
+- 🧠 Fine-tuning en OpenAI para entrenar modelos con diferentes estilos
+- 🎨 Frontend moderno con React
+- 🐳 Contenerización de microservicios con Docker
+- ☁️ Despliegue en la nube con GCP
+
+### 💬 **Disia AI Chatbot**
+> **Demo para centro comercial de lujo de Madrid**
+- 🧠 Sistema RAG (Retrieval-Augmented Generation)
+- 🔍 Base de datos vectorial con Qdrant
+- 🖥️ Frontend desarrollado en Vue.js
+
+### 📊 **Cerem** - [Ver Código](https://github.com/IgrowkerTraining/i003-cerem-back)
+> **CRM SaaS completo para gestión empresarial**
+- ✅ Gestión de tareas, reuniones y calendarios
+- 📝 Sistema de notas integrado
+- 🤖 Chatbot con IA especializado en campañas y métricas
+- 🔗 Integración con Google Calendar y Google Keep
+- 🔐 Autenticación JWT
+- 🏗️ Backend robusto con Django
+
+### 🍽️ **Donatello** - [Ver Código](https://github.com/IgrowkerTraining/i002-donatello-back-python)
+> **SaaS para locales gastronómicos**
+- 🐍 Backend en Python con Django
+- 🔌 API REST completa con Django Rest Framework
+- 🗄️ Base de datos PostgreSQL optimizada
+- 📊 Endpoints para reportes y analítica
+- 📈 Lógica avanzada para análisis de datos
+
+### 🌍 **Ugo!**
+> **Marketplace de Experiencias Turísticas (Simulación End-to-End)**
+- ⚡ APIs desarrolladas con Python y FastAPI
+- 🔗 Integración con Backend BFF
+- 📊 Panel administrativo con Streamlit
+- 📈 Métricas y gráficos de reviews para Marketing
+- 🎯 Operaciones CRUD sobre base de datos
+
+---
+
+## 📈 Estadísticas de GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rodrigoasis87&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de GitHub" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoasis87&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más utilizados" />
+</div>
+
+---
+
+## 💼 ¿Buscas un Desarrollador Jr?
+
+<div align="center">
+  
+  ### 🎯 **¡Encontraste al indicado!**
+  
+  ✅ **Experiencia laboral probada**  
+  ✅ **Sólidas soft skills**  
+  ✅ **Fuerte compromiso**  
+  ✅ **Capacidad y ganas de aportar ideas**  
+  
+  ### 🚀 **Estoy buscando proyectos desafiantes**
+  
+  <a href="https://www.linkedin.com/in/rodrigo-asis/" target="_blank">
+    <img src="https://img.shields.io/badge/¡Let's_Talk!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Contactar"/>
+  </a>
+  
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rodrigoasis87&color=blueviolet&style=for-the-badge" alt="Visitas al perfil"/>
+</div>

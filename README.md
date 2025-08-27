@@ -21,11 +21,10 @@
 
 📫 Si estás buscando a un Desarrollador Jr con probada experiencia laboral, sólidas soft skills, fuerte compromiso, capacidad y ganas de aportar ideas, encontraste al indicado; yo estoy buscando proyectos desafiantes. ¡Let's talk!
 
-<h4> 
-   <a href="https://www.linkedin.com/in/rodrigo-asis/" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LinkedIn_logo.svg" alt="X de Rodrigo Asis" height="30" />
-  </a>
-</h4>
+ 
+<a href="https://www.linkedin.com/in/rodrigo-asis/" target="blank">
+   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LinkedIn_logo.svg" alt="X de Rodrigo Asis" height="30" />
+</a>
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigoasis87)](https://github.com/anuraghazra/github-readme-stats)

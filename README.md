@@ -108,7 +108,7 @@
 
 ---
 
-## 💼 ¿Buscas un Desarrollador Jr?
+## 💼 ¿Buscas un AI Engineer?
 
 <div align="center">
   

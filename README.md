@@ -3,7 +3,7 @@
   
   # 👋 Hello stranger, thanks for visit =)
   
-  ### 🏗️ Arquitecto Social → 💻 Desarrollador Full Stack → 🤖 AI Engineer
+  ### 🏗️ Arquitecto Social → 💻 Desarrollador Backend → 🤖 AI Engineer
   
   <p align="center">
     <a href="https://www.linkedin.com/in/rodrigo-asis/" target="_blank">
@@ -108,13 +108,13 @@
 
 ---
 
-## 💼 ¿Buscas un AI Engineer?
+## 💼 ¿Estás buscando un AI Engineer?
 
 <div align="center">
   
-  ### 🎯 **¡Encontraste al indicado!**
+  ### 🎯 **Encontraste al indicado**
   
-  ✅ **Experiencia laboral probada**  
+  ✅ **Experiencia laboral**  
   ✅ **Sólidas soft skills**  
   ✅ **Fuerte compromiso**  
   ✅ **Capacidad y ganas de aportar ideas**  

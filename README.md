@@ -23,7 +23,7 @@
 
 💻 **4 años** de estudio autodidacta en **Desarrollo Web**, **SaaS** y actualmente **Desarrollo de Aplicaciones con IA** (AI Engineering).
 
-💻 **6 meses y contando** en **Desarrollo de Aplicaciones y Automatizaciones con IA**
+💻 **+1 año** en **Desarrollo de Aplicaciones y Automatizaciones con IA**
 
 ---
 

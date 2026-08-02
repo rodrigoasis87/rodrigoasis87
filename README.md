@@ -18,7 +18,7 @@
 
 🏛️ **5+ años** de ejercicio profesional en **Arquitectura Social** y dirección de obras/proyectos de escala comunitaria. Fundador de [Comuna Cooperativa](https://www.instagram.com/comuna.cooperativa/).
 
-💻 **Desarrollador Backend & AI** enfocado en el diseño e implementación de APIs RESTful, arquitecturas de agentes, RAG y servidores MCP.
+💻 **3+ años Desarrollador Backend & AI** enfocado en el diseño e implementación de APIs RESTful, arquitecturas de agentes, RAG y servidores MCP.
 
 🎓 Cursando la **Licenciatura en Machine Learning** para profundizar en los fundamentos teóricos y modelos de IA avanzados.
 

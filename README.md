@@ -3,7 +3,7 @@
   
   # 👋 Hello stranger, thanks for visit =)
   
-  ### 🏗️ Arquitecto Social → 💻 Desarrollador Backend → 🤖 AI Engineer
+  ### 🏗️ Arquitecto Social → 💻 Desarrollador Backend → 🤖 AI Python Developer
   
   <p align="center">
     <a href="https://www.linkedin.com/in/rodrigo-asis/" target="_blank">
@@ -19,11 +19,11 @@
 
 ## 🚀 Sobre Mí
 
-🏛️ **7 años** de ejercicio profesional en **Arquitectura Social**, especializado en gestión y dirección de proyectos. Fundador de [Comuna Cooperativa](https://www.instagram.com/comuna.cooperativa/) - una cooperativa de diseño y construcción.
+🏛️ **5+ años** de ejercicio profesional en **Arquitectura Social** y dirección de obras/proyectos de escala comunitaria. Fundador de [Comuna Cooperativa](https://www.instagram.com/comuna.cooperativa/).
 
-💻 **4 años** de estudio autodidacta en **Desarrollo Web**, **SaaS** y actualmente **Desarrollo de Aplicaciones con IA** (AI Engineering).
+💻 **Desarrollador Backend & AI** enfocado en el diseño e implementación de APIs RESTful, arquitecturas de agentes, RAG y servidores MCP.
 
-💻 **+1 año** en **Desarrollo de Aplicaciones y Automatizaciones con IA**
+🎓 Cursando la **Licenciatura en Machine Learning** para profundizar en los fundamentos teóricos y modelos de IA avanzados.
 
 ---
 
@@ -31,30 +31,46 @@
 
 <div align="center">
 
-### Backend & Databases
+### Backend & Core
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+
+### AI, Agents & Knowledge Graphs
+![Model Context Protocol](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+### Data Processing & Databases
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
+![Polars](https://img.shields.io/badge/Polars-CD7F32?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### AI & ML
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ### DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
 </div>
 
 ---
 
 ## 🎯 Proyectos Destacados
+
+### 🏢 **Enterprise MCP Server (BI Analytics)**
+> **Servidor Model Context Protocol para consulta en lenguaje natural sobre métricas de centros comerciales**
+- ⚡ Arquitectura MCP con backend en Python y validaciones estrictas en Pydantic para Tool Calling
+- 🚀 Cache Warming pipeline con **Polars** y persistencia en **Parquet** para eliminar latencias de red
+- 📊 Motor analítico en **DuckDB** con arquitectura Zero-Copy para consultas in-memory sobre cientos de miles de registros
+- 🧪 Testing de paridad E2E con Postman garantizando cálculo matemático exacto sin alucinaciones de LLM
+
+### 🔍 **Semantic Recommender Agent (In Progress)**
+> **Agente de recomendación con búsqueda híbrida y grafos de conocimiento**
+- 🧠 Estrategia de búsqueda híbrida combinando recuperación léxica y semántica
+- 🕸️ Utilización de **Neo4j** para modelado de grafos de conocimiento y relaciones complejas
+- 🐍 Integración con ecosistema Python para orquestación de agentes
 
 ### 🤖 **Disia AI Generator**
 > **Generación de contenido en lenguaje natural para empresa española**
@@ -69,32 +85,19 @@
 > **Demo para centro comercial de lujo de Madrid**
 - 🧠 Sistema RAG (Retrieval-Augmented Generation)
 - 🔍 Base de datos vectorial con Qdrant
-- 🖥️ Frontend desarrollado en Vue.js
-
-### 📊 **Cerem** - [Ver Código](https://github.com/IgrowkerTraining/i003-cerem-back)
-> **CRM SaaS completo para gestión empresarial**
-- ✅ Gestión de tareas, reuniones y calendarios
-- 📝 Sistema de notas integrado
-- 🤖 Chatbot con IA especializado en campañas y métricas
-- 🔗 Integración con Google Calendar y Google Keep
-- 🔐 Autenticación JWT
-- 🏗️ Backend robusto con Django
+- 🖥️ Frontend desarrollado en React
 
 ### 🍽️ **Donatello** - [Ver Código](https://github.com/IgrowkerTraining/i002-donatello-back-python)
 > **SaaS para locales gastronómicos**
-- 🐍 Backend en Python con Django
-- 🔌 API REST completa con Django Rest Framework
+- 🐍 Backend en Python con Django y Django Rest Framework
 - 🗄️ Base de datos PostgreSQL optimizada
-- 📊 Endpoints para reportes y analítica
-- 📈 Lógica avanzada para análisis de datos
+- 📊 Endpoints para reportes y analítica avanzada
 
 ### 🌍 **Ugo!**
 > **Marketplace de Experiencias Turísticas (Simulación End-to-End)**
-- ⚡ APIs desarrolladas con Python y FastAPI
-- 🔗 Integración con Backend BFF
-- 📊 Panel administrativo con Streamlit
-- 📈 Métricas y gráficos de reviews para Marketing
-- 🎯 Operaciones CRUD sobre base de datos
+- ⚡ APIs desarrolladas con Python y FastAPI para consumo de BFF
+- 🔗 Integración con MongoDB para almacenamiento no relacional
+- 📊 Panel administrativo con Streamlit para carga e ingesta de datos
 
 ---
 
@@ -108,16 +111,16 @@
 
 ---
 
-## 💼 ¿Estás buscando un AI Engineer?
+## 💼 ¿Estás buscando un AI Python Developer?
 
 <div align="center">
   
   ### 🎯 **Encontraste al indicado**
   
-  ✅ **Experiencia laboral**  
-  ✅ **Sólidas soft skills**  
-  ✅ **Fuerte compromiso**  
-  ✅ **Capacidad y ganas de aportar ideas**  
+  ✅ **Sólida arquitectura Backend & desarrollo de Agentes de IA**  
+  ✅ **Capacidad de liderazgo técnico y resolución de problemas complejos**  
+  ✅ **Fuerte compromiso con la precisión de datos y buenas prácticas**  
+  ✅ **Experiencia real puenteando visión de negocio con ejecución técnica**  
   
   ### 🚀 **Estoy buscando proyectos desafiantes**
   
@@ -126,8 +129,6 @@
   </a>
   
 </div>
-
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=rodrigoasis87&color=blueviolet&style=for-the-badge" alt="Visitas al perfil"/>
